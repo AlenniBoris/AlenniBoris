@@ -33,4 +33,4 @@ time management, teamwork, creativity.
 English(B2), Russian(Native speaker), Belarusian(Native speaker)
 ## 🚀 About Me
 
-I am a student, 3rd year of BSU, FAMCS. For myself, not professionally, I am engaged in Greco-Roman wrestling, I used to swim, also not professionally. I have been traveling as a counselor to children's camps for the last two years, so I have patience and the ability to negotiate). Right now I'm searching for an internship or job to gain expirience in my sphere. 
+I am a student, 3rd year of BSU, FAMCS. For myself, I am engaged in wrestling and swim. For the last two years, so I aquired more patience and negotiation abilities, also became more disciplined and resistent to stress. Right now I'm searching for an internship or job to gain expirience in my sphere. 
