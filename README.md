@@ -18,11 +18,8 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://github.com/ashish-kamboj/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish-kamboj&theme=default&show_icons=true&hide=issues,contribs" />
-</a>
-<a href="https://github.com/ashish-kamboj/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-kamboj&layout=compact&langs_count=10" />
+
+<a href="[https://github.com/AlenniBoris/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlenniBoris&layout=compact&langs_count=10" />
 </a>
 
-<p class="aligncenter"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-kamboj&" alt="ashish-kamboj" /></p>
