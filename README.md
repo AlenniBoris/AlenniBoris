@@ -23,3 +23,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlenniBoris&layout=compact&langs_count=10" />
 </a>
 
+<a href="[https://github.com/VidevichA/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidevichA&layout=compact&langs_count=10" />
+</a>
