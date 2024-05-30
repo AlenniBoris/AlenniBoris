@@ -35,4 +35,4 @@ English(B2), Russian(Native speaker), Belarusian(Native speaker)
 
 I am a student, 3rd year of BSU, FAMCS. For myself, I am engaged in wrestling and swim. For the last two years, so I aquired more patience and negotiation abilities, also became more disciplined and resistent to stress. Right now I'm searching for an internship or job to gain expirience in my sphere. 
 
-[You can see my CV here.](https://linktodocumentation](https://github.com/AlenniBoris/AlenniBoris/blob/main/Alennikov%20Boris%20CV.pdf)
+[You can see my CV here.](https://github.com/AlenniBoris/AlenniBoris/)
