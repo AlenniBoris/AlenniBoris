@@ -1,6 +1,10 @@
 
 # Alennikov Boris
 
+## 🚀 About Me
+
+I am an android developer with 1.5 years of experience.  I like to read science fiction and also play sports. I can easily describe myself as a sociable, open-minded person. I take criticism well, stress resistant.
+
 ## 🛠 Hard skills
 
 Kotlin, Java, C++, JavaScript(basics), React JS(basics), Assembly(basics), Mathematica.
@@ -30,8 +34,6 @@ Linear Algebra, Mathematical Analysis, Probability Theory,
 Mathematical Statistics, Discrete Mathematics, Operating Systems,
 Machine Learning, Algorithms and Data Structures, Computer graphics, etc.
 
-## 🚀 About Me
 
-I am an android developer with 1.5 years of experience.  I like to read science fiction and also play sports. I can easily describe myself as a sociable, open-minded person. I take criticism well, stress resistant.
 
 
