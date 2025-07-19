@@ -5,6 +5,10 @@
 
 I am an android developer with 1+ years of experience.  I like to read science fiction and also play sports. I can easily describe myself as a sociable, open-minded person. I take criticism well, stress resistant.
 
+## CV 
+
+[Click here](https://github.com/AlenniBoris/AlenniBoris/blob/main/Alennikov%20Boris%2C%20CV.pdf)
+
 ## 🛠 Hard skills
 
 Kotlin, Java, C++, JavaScript(basics), React JS(basics), Assembly(basics), Mathematica.
