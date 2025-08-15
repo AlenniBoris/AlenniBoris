@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-I am an android developer with 1+ years of experience.  I like to read science fiction and also play sports. I can easily describe myself as a sociable, open-minded person. I take criticism well, stress resistant.
+I am an android developer with 1.5+ years of experience.  I like to read science fiction and also play sports. I can easily describe myself as a sociable, open-minded person. I take criticism well, stress resistant.
 
 ## CV 
 
