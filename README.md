@@ -7,7 +7,7 @@ I am an android developer with 1.5+ years of experience.  I like to read science
 
 ## CV 
 
-[Click here](https://github.com/AlenniBoris/AlenniBoris/blob/main/Alennikov%20Boris%2C%20CV.pdf)
+[Click here](https://github.com/AlenniBoris/AlenniBoris/blob/main/Boris%20Alennikov.pdf)
 
 ## 🛠 Hard skills
 
